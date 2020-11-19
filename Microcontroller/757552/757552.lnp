@@ -1,0 +1,9 @@
+"main.obj",
+"cpu.obj",
+"Utilities.obj",
+"uart.obj",
+"Command.obj" 
+TO "757552" 
+RAMSIZE(256) 
+CODE( 0X0000-0XF7FF )
+XDATA( 0X0000-0X07FF )
